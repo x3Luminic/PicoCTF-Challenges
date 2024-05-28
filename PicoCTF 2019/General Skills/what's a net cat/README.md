@@ -10,7 +10,7 @@ Netcat: A networking tool that makes UDP and/or TCP connections. Usage:
 
 `nc <ip-address> <port> `
 
-```x3luminic-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 64287
-You're on your way to becoming the net cat master```
+x3luminic-picoctf@webshell:~$ nc jupiter.challenges.picoctf.org 64287
+You're on your way to becoming the net cat master
 
-`picoCTF{nEtCat_Mast3ry_284be8f7}`
+picoCTF{nEtCat_Mast3ry_284be8f7}
