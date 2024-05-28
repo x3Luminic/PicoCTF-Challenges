@@ -4,7 +4,10 @@
 
 ### Author: Sanjay C/Danny Tunitis
 
+#### Solution
+
 This is an easy solve. Open up any online ASCII Table and find the ASCII representation of 0x70 hex.
 
 Answer: Lowercase p
+
 picoCTF{p}
