@@ -12,6 +12,8 @@ The hint is already given which is to strings the file. However when we run the 
 
 So to solve this, we just need to run this command:
 
+```bash
 strings <file> | grep "picoCTF"
 
 picoCTF{5tRIng5_1T_827aee91}
+```
